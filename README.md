@@ -27,4 +27,4 @@ A comprehensive collection of Relational Database Management System (RDBMS) expe
 
 ## Author
 
-* **Dhruv Gupta** ([@dhruvgupt02](https://github.com/dhruvgupt02))
+* **Satyendra Pratap Singh ** ([@satyendrapratapsingh053-wq](https://github.com/satyendrapratapsingh053-wq))
